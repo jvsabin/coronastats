@@ -1,0 +1,24 @@
+
+===========================
+IP: ::1
+Time: 11/12/2020 20:52:42 pm
+Filename: index.php
+URL: http://localhost/corona/index.php
+
+===========================
+IP: ::1
+Time: 11/12/2020 20:53:41 pm
+Filename: index.php
+URL: http://localhost/corona/index.php
+
+===========================
+IP: ::1
+Time: 11/12/2020 20:54:42 pm
+Filename: index.php
+URL: http://localhost/corona/index.php
+
+===========================
+IP: ::1
+Time: 11/12/2020 20:56:39 pm
+Filename: index.php
+URL: http://localhost/corona/index.php
